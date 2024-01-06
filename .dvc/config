@@ -1,0 +1,6 @@
+[core]
+    remote = remote
+['remote "myremote"']
+    url = /tmp/dvcstore
+['remote "remote"']
+    url = ../tmp
